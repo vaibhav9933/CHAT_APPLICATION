@@ -63,6 +63,7 @@ npm start
 *Usage*
 Open the browser and go to http://localhost:3000/
 Start chatting in real-time! 🎉
+![localhost_5000 and 1 more page - Personal - Microsoft​ Edge 12-03-2025 01_48_21](https://github.com/user-attachments/assets/982a8ab2-564e-45c6-b6f6-9c4c812d521a)
 
 *OUTPUT:*
 

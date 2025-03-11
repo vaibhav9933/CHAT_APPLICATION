@@ -30,14 +30,7 @@ WebSockets: Socket.io
 Database: MongoDB (Optional)
 Setup & Installation
 
-1️⃣ Clone the repository:
-
-sh
-
-git clone https://github.com/yourusername/chat-application.git
-cd chat-application
-
-2️⃣ Install dependencies:
+1️⃣ Install dependencies:
 
 sh
 
@@ -46,7 +39,7 @@ npm install
 cd ../frontend
 npm install
 
-3️⃣ Start the servers:
+2️⃣ Start the servers:
 
 *Backend:*
 

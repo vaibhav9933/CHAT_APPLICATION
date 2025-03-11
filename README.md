@@ -68,4 +68,8 @@ Start chatting in real-time! 🎉
 
 *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/90a3d569-7bb1-47aa-ade2-228cc952bea8)
 
+![Image](https://github.com/user-attachments/assets/7f637a3b-3500-4935-98e5-1d0d5b92ae9e)
+
+![Image](https://github.com/user-attachments/assets/912c5a63-d5ff-47e6-851f-5bb70ff2e486)

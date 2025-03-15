@@ -58,7 +58,6 @@ Open the browser and go to http://localhost:3000/
 Start chatting in real-time! 🎉
 
 
-
 *OUTPUT:*
 
 ![Image](https://github.com/user-attachments/assets/90a3d569-7bb1-47aa-ade2-228cc952bea8)
